@@ -1,0 +1,15 @@
+div {
+    float: left;
+}
+
+h1 {
+    background: bisque;
+    width: 500px;
+    height: auto;
+    color:brown;
+    border: solid 1px black;
+    text-align: center;
+    display: block;
+    float: left;
+
+}
